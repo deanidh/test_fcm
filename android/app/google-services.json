@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "112678738041",
+    "project_id": "practice-fcm-9fd5d",
+    "storage_bucket": "practice-fcm-9fd5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112678738041:android:3a89019aa8f582d0d7dca8",
+        "android_client_info": {
+          "package_name": "com.deanidh.test_fcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiOmtouO2EQvNc1bb3NJPpBnHiONXiU08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112678738041:android:22a827ccf6bf5feed7dca8",
+        "android_client_info": {
+          "package_name": "com.example.test_fcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiOmtouO2EQvNc1bb3NJPpBnHiONXiU08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
